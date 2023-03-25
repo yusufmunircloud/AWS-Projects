@@ -3,3 +3,6 @@ AWSProjects is a GitHub repository featuring practical projects that demonstrate
 
 
 ![Untitled design-2](https://user-images.githubusercontent.com/128338058/227731510-11fd085e-19fb-445e-9f7d-d4fdc851189f.png)
+
+
+![static_website_architecture](https://user-images.githubusercontent.com/128338058/227731693-ce47e727-647f-417a-97c4-8396213657e8.png)
