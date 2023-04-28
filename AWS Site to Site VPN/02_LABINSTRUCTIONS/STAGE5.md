@@ -1,6 +1,4 @@
-# Advanced Demo - Advanced Demo - Simple Site2Site VPN
-
-![Stage1 - PNG](TBC)
+# Project: AWS Site2Site VPN
 
 - Stage 1 - Create Site2Site VPN 
 - Stage 2 - Configure onpremises Router 
