@@ -18,10 +18,6 @@ In this stage of the application you will create an S3 bucket and static website
 You will download the source files for the front end, configure them to connect to your specific API gateway and then upload them to S3.
 Finally, you will run some application tests to verify its functionality.  
 
-# STAGE5 VIDEO GUIDE 
-[STAGE5 VIDEO GUIDE](https://youtu.be/TkydHW3UKUY)
-
-
 # STAGE 5A - CREATE THE S3 BUCKET
 
 Move to the S3 Console https://s3.console.aws.amazon.com/s3/home?region=us-east-1#
@@ -51,13 +47,13 @@ in the box, paste the code below
         "Effect":"Allow",
         "Principal": "*",
         "Action":["s3:GetObject"],
-        "Resource":["REPLACEME_PET_CUDDLE_O_TRON_BUCKET_ARN/*"]
+        "Resource":["REPLACEME_BUCKET_ARN/*"]
       }
     ]
   }
 
 ```
-Replace the `REPLACEME_PET_CUDDLE_O_TRON_BUCKET_ARN` (being careful NOT to include the `/*`) with the bucket ARN, which you can see near to `Bucket ARN `
+Replace the `REPLACEME_BUCKET_ARN` (being careful NOT to include the `/*`) with the bucket ARN, which you can see near to `Bucket ARN `
 Click `Save Changes`  
 
 
@@ -76,7 +72,7 @@ Under `Bucket Website Endpoint` copy and note down the bucket endpoint URL.
 
 # STAGE 5D - DOWNLOAD AND EDIT THE FRONT END FILES
 
-Download and extra this ZIP file https://learn-cantrill-labs.s3.amazonaws.com/aws-serverless-pet-cuddle-o-tron/serverless_frontend.zip
+Download and extra this ZIP file https://drive.google.com/drive/folders/1N4eZrWRStZyxoXxhjcgzc6ZfPA5-daWU?usp=share_link
 Inside the serverless_frontend folder are the front end files for the serverless website :-
 
 - index.html .. the main index page
