@@ -1,5 +1,7 @@
 # Advanced Demo - Serverless App - Pet-Cuddle-O-Tron
 
+NOTE : COMPLETE INSPIRATION FROM ADRIAN CANTRILL, IN FACT I HAVE LEARNED ALL MY AWS SKILLS FROM HIS COURSES, IF YOU YOURSELF ARE GETTING STARTED OR ARE INTERESTED IN THE AWS AND CLOUD COMPUTING WORLD, PLEASE GO CHECK OUT HIS COURSES : https://learn.cantrill.io/courses/
+
 In this advanced demo you are going to implement a simple serverless application using S3, API Gateway, Lambda, Step Functions, SNS & SES.  
 
 The advanced demo consists of 6 stages :-
