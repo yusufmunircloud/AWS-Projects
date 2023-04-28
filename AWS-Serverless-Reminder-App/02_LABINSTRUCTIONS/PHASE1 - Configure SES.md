@@ -1,4 +1,4 @@
-# Serverless Reminder App
+# Project: Serverless Reminder App
 
 In this project you will be implementing a serverless reminder application.
 The application will load from an S3 bucket and run in browser
