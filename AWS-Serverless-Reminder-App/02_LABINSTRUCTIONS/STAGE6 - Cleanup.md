@@ -14,11 +14,7 @@ This advanced demo consists of 6 stages :-
 - STAGE 6 : Cleanup the account **<= THIS STAGE**
 
 
-In this stage you will cleanup all the resources created by this advanced demo.
-
-# STAGE6 VIDEO GUIDE 
-[STAGE6 VIDEO GUIDE](https://youtu.be/iGTkY0EThBM)
-
+In this stage you will cleanup all the resources created in this project.
 
 Move to the S3 console https://s3.console.aws.amazon.com/s3/home?region=us-east-1
 Select the bucket you created  
@@ -46,7 +42,7 @@ Move to the cloudformation console https://console.aws.amazon.com/cloudformation
 Check the box next to `SMROLE` , click `Delete` then `Delete Stack`  
 Check the box next to `LAMBDAROLE` , click `Delete` then `Delete Stack` 
 
-AT this point you have removed all infrastructure used for this AdvancedDemo and have completed the advanced demo itself.
+AT this point you have removed all infrastructure used for this project and have completed the project itself.
 
 Good job !!
 
