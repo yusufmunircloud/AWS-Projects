@@ -1,6 +1,6 @@
 # Advanced Demo - Advanced Demo - Simple Site2Site VPN
 
-# [Architecture] ![stagevpn1](https://user-images.githubusercontent.com/128338058/235250772-402b6c7c-f0ca-426b-8336-0b22dcad0e8b.PNG)
+# [Stage 1] ![stagevpn1](https://user-images.githubusercontent.com/128338058/235250772-402b6c7c-f0ca-426b-8336-0b22dcad0e8b.PNG)
 
 
 
