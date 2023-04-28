@@ -72,7 +72,7 @@ Under `Bucket Website Endpoint` copy and note down the bucket endpoint URL.
 
 # STAGE 5D - DOWNLOAD AND EDIT THE FRONT END FILES
 
-Download and extra this ZIP file https://drive.google.com/drive/folders/1N4eZrWRStZyxoXxhjcgzc6ZfPA5-daWU?usp=share_link
+Download and extra this ZIP file Serverless_Frontend(https://drive.google.com/drive/folders/1N4eZrWRStZyxoXxhjcgzc6ZfPA5-daWU?usp=share_link)
 Inside the serverless_frontend folder are the front end files for the serverless website :-
 
 - index.html .. the main index page
