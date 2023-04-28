@@ -16,50 +16,17 @@ This advanced demo consists of 6 stages :-
 
 # STAGE 2A - CREATE THE Lambda Execution Role for Lambda
 
-In this stage of the demo you need to create an IAM role which the email_reminder_lambda will use to interact with other AWS services.  
-Move to the IAM Console https://console.aws.amazon.com/iam/home?#/roles 
-For Trusted Entity select AWS Service and for Use Case put Lambda.
-Next, in the permissions section in the top right, select create policy and switch over to the JSON section and copy and paste the following :
+In this stage of the demo you need to create an IAM role which the email_reminder_lambda will use to interact with other AWS services.
+You could create this manually, but its easier to do this step using cloudformation to speed things up.
+Click https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://learn-cantrill-labs.s3.amazonaws.com/aws-serverless-pet-cuddle-o-tron/lambdarolecfn.yaml&stackName=LAMBDAROLE Check the I acknowledge that AWS CloudFormation might create IAM resources. box and then click Create Stack
 
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": "sts:AssumeRole",
-      "Resource": "arn:aws:iam::ACCOUNT_ID:role/LambdaRole",
-      "Principal": {
-        "Service": "lambda.amazonaws.com"
-      }
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "logs:CreateLogGroup",
-        "logs:CreateLogStream",
-        "logs:PutLogEvents"
-      ],
-      "Resource": "arn:aws:logs:*:*:*"
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "ses:*",
-        "sns:*",
-        "states:*"
-      ],
-      "Resource": "*"
-    }
-  ]
-}
-```
-Note: replace 'ACCOUNT_ID' in the ARN with your actual AWS account ID. Also, make sure to adjust the policy to your specific use case, as the above policy may not provide sufficient permissions for your needs.
-Click `Next: Tags`
+Wait for the Stack to move into the CREATE_COMPLETE state before moving into the next
 
-Move to the IAM Console https://console.aws.amazon.com/iam/home?#/roles and review the execution role   
-This is what gives lambda the permissions to interact with those services    
+Move to the IAM Console https://console.aws.amazon.com/iam/home?#/roles and review the execution role
+Notice that it provides SES, SNS and Logging permissions to whatever assumes this role.
+This is what gives lambda the permissions to interact with those services
 
+STAGE 2B - Create the email_reminder_la
 
 # STAGE 2B - Create the email_reminder_lambda function
 
