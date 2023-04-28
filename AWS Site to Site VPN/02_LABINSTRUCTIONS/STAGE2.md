@@ -1,6 +1,7 @@
 # Advanced Demo - Advanced Demo - Simple Site2Site VPN
 
-![Stage2](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE2.png)
+![Stage 2]![STAGEVPNALL](https://user-images.githubusercontent.com/128338058/235251583-8b9f01d7-938a-4838-bdf3-65b7af86b44e.PNG)
+
 
 - Stage 1 - Create Site2Site VPN 
 - Stage 2 - Configure onpremises Router <= `YOU ARE HERE`
