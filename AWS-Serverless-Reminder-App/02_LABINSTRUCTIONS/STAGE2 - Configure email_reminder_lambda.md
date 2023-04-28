@@ -22,7 +22,7 @@ For Trusted Entity select AWS Service and for Use Case put Lambda.
 Next, in the permissions section in the top right, select create policy and switch over to the JSON section and copy and paste the following :
 
 Note: replace 'ACCOUNT_ID' in the ARN with your actual AWS account ID. Also, make sure to adjust the policy to your specific use case, as the above policy may not provide sufficient permissions for your needs.
-
+`
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -54,7 +54,7 @@ Note: replace 'ACCOUNT_ID' in the ARN with your actual AWS account ID. Also, mak
     }
   ]
 }
-
+`
 
 
 
