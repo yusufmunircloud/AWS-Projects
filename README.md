@@ -1,6 +1,6 @@
 # AWS-Projects
 
-NOTE : MUCH INSPIRATION FROM ADRIAN CANTRILL, IN FACT I HAVE LEARNED ALL MY AWS SKILLS FROM HIS COURSES, IF YOU YOURSELF ARE GETTING STARTED OR ARE INTERESTED IN THE AWS AND CLOUD COMPUTING WORLD, PLEASE GO CHECK OUT HIS COURSES : https://learn.cantrill.io/courses/
+NOTE : I would like to express my admiration for the work of Adrian Cantrill in the field of AWS and cloud computing. Through his courses, I have gained a significant amount of knowledge and practical skills that have been extremely beneficial in my career and have taken inspiration from him for my AWS Projects. I highly recommend his courses to anyone who is interested in developing their expertise in this field. I believe that Mr. Cantrill's ability to explain complex concepts in a simple and accessible manner is unparalleled, and his courses are a must for anyone looking to excel in the world of cloud computing, also the courses are very affordable. To access his courses, please visit: https://learn.cantrill.io/courses/.
 
 AWSProjects is a GitHub repository featuring practical projects that demonstrate AWS features, catering to different levels of expertise. Each well-documented project includes step-by-step instructions for easy implementation, making it a great resource for AWS developers to learn and collaborate.
 
