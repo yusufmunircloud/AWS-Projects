@@ -1,6 +1,6 @@
 # Project: AWS Site2Site VPN
 
-# [Stage 1] ![VPNsite2site (1)](https://user-images.githubusercontent.com/128338058/235252422-6ff9bace-49dd-4abb-a280-5a4763f52e5a.png)
+# [PHASE1] ![VPNsite2site (1)](https://user-images.githubusercontent.com/128338058/235252422-6ff9bace-49dd-4abb-a280-5a4763f52e5a.png)
 
 
 
