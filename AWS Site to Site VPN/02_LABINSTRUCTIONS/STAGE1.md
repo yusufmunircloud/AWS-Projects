@@ -1,6 +1,7 @@
 # Advanced Demo - Advanced Demo - Simple Site2Site VPN
 
-# [Stage1]![image](https://user-images.githubusercontent.com/128338058/235247823-25f9cc98-ac4d-4f9a-8091-4401a4c1de87.png)
+# [Stage1] ![STAGEVPNALL](https://user-images.githubusercontent.com/128338058/235250559-49945ec3-8e1e-4646-8bdb-2fc8209438cc.PNG)
+
 
 - Stage 1 - Create Site2Site VPN <= `YOU ARE HERE`
 - Stage 2 - Configure onpremises Router
