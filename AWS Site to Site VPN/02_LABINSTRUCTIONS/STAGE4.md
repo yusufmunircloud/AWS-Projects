@@ -1,6 +1,7 @@
 # Advanced Demo - Advanced Demo - Simple Site2Site VPN
 
-# [Stage4] ![STAGEVPNALL](https://user-images.githubusercontent.com/128338058/235251857-773f54e9-507e-43a5-8fe6-20954f77c74d.PNG)
+# [Stage4] ![VPNsite2site](https://user-images.githubusercontent.com/128338058/235252560-9795476e-502a-4e6b-b0a9-e1bbbee1438d.png)
+
 
 
 - Stage 1 - Create Site2Site VPN 
