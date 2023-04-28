@@ -13,9 +13,6 @@ This advanced demo consists of 6 stages :-
 - STAGE 5 : Implement the static frontend application and test functionality
 - STAGE 6 : Cleanup the account
 
-# STAGE4 VIDEO GUIDE 
-[STAGE4 VIDEO GUIDE](https://youtu.be/8BTUhDnRN0s)
-
 
 In this stage you will be creating the front end API for the serverless application.  
 The front end loads from S3, runs in your browser and communicates with this API.  
@@ -39,7 +36,7 @@ This is the lambda function which will support the API Gateway
 # STAGE 4B - CONFIGURE THE LAMBDA FUNCTION (Using the current UI)
 
 Scroll down, and remove all the code from the `lambda_function` text box  
-Open this link in a new tab https://learn-cantrill-labs.s3.amazonaws.com/aws-serverless-pet-cuddle-o-tron/api_lambda.py
+Open this link in a new tab AWS-Serverless-PythonlambdaAPI.py
 depending on your browser it might download the .py file, if so, open it in either your code editor, or notepad on windows, or textedit on a mac and copy it all into your clipboard
 Move back to the Lambda console.  
 Select the existing lambda code and delete it.  
