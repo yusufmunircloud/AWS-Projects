@@ -1,6 +1,6 @@
-# Advanced Demo Serverless Application - Pet-Cuddle-O-Tron
+# Serverless Reminder App
 
-In this _Advanced Demo_ you will be implementing a serverless reminder application.
+In this project you will be implementing a serverless reminder application.
 The application will load from an S3 bucket and run in browser
 .. communicating with Lambda and Step functions via an API Gateway Endpoint
 Using the application you will be able to configure reminders for 'pet cuddles' to be sent using email.
@@ -16,7 +16,7 @@ This advanced demo consists of 6 stages :-
 
 # STAGE 1A - VERIFY SES APPLICATION SENDING EMAIL ADDRESS
 
-The Pet-Cuddle-O-Tron application is going to send reminder messages via SMS and Email.  It will use the simple email service or SES. In production, it could be configured to allow sending from the application email, to any users of the application. SES starts off in sandbox mode, which means you can only sent to verified addresses (to avoid you spamming). 
+The Serverless Reminder Application is going to send reminder messages via SMS and Email.  It will use the simple email service or SES. In production, it could be configured to allow sending from the application email, to any users of the application. SES starts off in sandbox mode, which means you can only sent to verified addresses (to avoid you spamming). 
 
 There is a whole [process to get SES out of sandbox mode](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html), which you could do, but for this demo to keep things quick - we will verify the sender address and the receiver address.  
 
