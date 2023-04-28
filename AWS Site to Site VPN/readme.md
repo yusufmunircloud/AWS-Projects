@@ -1,6 +1,6 @@
 # Advanced Demo - Simple Site2Site VPN
 
-![Architecture]!(https://user-images.githubusercontent.com/128338058/235250003-6356ff75-8892-4fa3-9bc9-e46eecf7ffc2.PNG)
+![Architecture] (https://user-images.githubusercontent.com/128338058/235250003-6356ff75-8892-4fa3-9bc9-e46eecf7ffc2.PNG)
 
 In this mini project you will implement a site to site VPN between AWS and a simulated on-premises business site running the pfSense router/NAT software.
 
