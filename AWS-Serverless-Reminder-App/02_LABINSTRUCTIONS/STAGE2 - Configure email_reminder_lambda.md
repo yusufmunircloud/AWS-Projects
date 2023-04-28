@@ -26,8 +26,6 @@ Move to the IAM Console https://console.aws.amazon.com/iam/home?#/roles and revi
 Notice that it provides SES, SNS and Logging permissions to whatever assumes this role.
 This is what gives lambda the permissions to interact with those services
 
-STAGE 2B - Create the email_reminder_la
-
 # STAGE 2B - Create the email_reminder_lambda function
 
 Next You're going to create the lambda function which will will be used by the serverless application to create an email and then send it using `SES`  
