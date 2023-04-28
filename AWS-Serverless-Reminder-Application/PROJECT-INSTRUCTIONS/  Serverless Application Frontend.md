@@ -1,4 +1,4 @@
-# Advanced Demo Serverless Application - Pet-Cuddle-O-Tron
+# Project: Serverless Reminder Application
 In this _Advanced Demo_ you will be implementing a serverless reminder application.
 The application will load from an S3 bucket and run in browser
 .. communicating with Lambda and Step functions via an API Gateway Endpoint
