@@ -27,7 +27,7 @@ Click `Create Identity`
 Check the 'Email Address' checkbox  
 Ideally you will need a `sending` email address for the application and a `receiving email address` for your test customer. But you can use the same email for both.  
 
-For my application email ... the email the app will send from i'm going to use `adrian+cuddleotron@cantrill.io`  
+For my application email ... the email the app will send from i'm going to use `yusuf+reminderapp@gmail.com`  
 Enter whatever email you want to use to send in the box (it needs to be a valid address as it will be checked)  
 Click `Create Identity`  
 You will receive an email to this address containing a link to click  
@@ -41,7 +41,7 @@ Record this address somewhere save as the `PetCuddleOTron Sending Address`
 If you want to use a different email address for the test customer (recommended), follow the steps below  
 Click `Create Identity`  
 Check the 'Email Address' checkbox 
-For my application email ... the email for my test customer is  `adrian+cuddlecustomer@cantrill.io`  
+For my application email ... the email for my test customer is  `yusuf+remindercustomer@gmail.com`  
 Enter whatever email you want to use to send in the box (it needs to be a valid address as it will be checked)  
 Click `Create Identity`   
 You will receive an email to this address containing a link to click  
@@ -54,7 +54,7 @@ Record this address somewhere save as the `PetCuddleOTron Customer Address`
 
 At this point you have whitelisted 2 email addresses for use with SES.  
 
-- the `PetCuddleOTron Sending Address`. 
-- the `PetCuddleOTron Customer Address`. 
+- the `ReminderApp Sending Address`. 
+- the `ReminderApp Customer Address`. 
 
 These will be configured and used by the application in later stages. AT this point you have finished all the tasks needed in this STAGE of the Advanced Demo Lesson
