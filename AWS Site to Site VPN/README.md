@@ -1,6 +1,6 @@
 # Project: AWS Site2Site VPN
 
-# [Architecture]  ![VPNsite2site](https://user-images.githubusercontent.com/128338058/235252335-e63b3c21-6ae3-49c2-bcb3-94db35c5cc6b.png)
+# [Final Architecture]  ![VPNsite2site](https://user-images.githubusercontent.com/128338058/235252335-e63b3c21-6ae3-49c2-bcb3-94db35c5cc6b.png)
 
 
 
