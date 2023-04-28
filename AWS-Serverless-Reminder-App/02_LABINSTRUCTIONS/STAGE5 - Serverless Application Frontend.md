@@ -77,7 +77,7 @@ Inside the serverless_frontend folder are the front end files for the serverless
 
 - index.html .. the main index page
 - main.css .. the stylesheet for the page
-- whiskers.png .. an image of whiskers !!
+- AWS.png .. an image of the glorious AWS logo !!
 - serverless.js .. the JS code which runs in your browser. It responds when buttons are clicked, and passes and text from the boxes when it calls the API Gateway endpoint.  
 
 Open the `serverless.js` in a code/text editor.
