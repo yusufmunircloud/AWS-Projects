@@ -1,6 +1,6 @@
 # Serverless Reminder Application
 
-In this _Advanced Demo_ you will be implementing a serverless reminder application.
+In this project you will be implementing a serverless reminder application.
 The application will load from an S3 bucket and run in browser
 .. communicating with Lambda and Step functions via an API Gateway Endpoint
 Using the application you will be able to configure reminders for 'pet cuddles' to be sent using email.
@@ -68,7 +68,7 @@ def lambda_handler(event, context):
 ```
 
 This function will send an email to an address it's supplied with (by step functions) and it will be FROM the email address we specify.    
-Select `REPLACE_ME` and replace with the `PetCuddleOTron Sending Address` which you noted down in `STAGE1`    
+Select `REPLACE_ME` and replace with the `Serverless Reminder App Sending Address` which you noted down in `STAGE1`    
 Click `Deploy` to configure the lambda function    
 Scroll all the way to the top, and click the `copy` icon next to the lambda function ARN.  
 Note this ARN down somewhere same as the `email_reminder_lambda` ARN    
