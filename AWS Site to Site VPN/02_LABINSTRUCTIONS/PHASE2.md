@@ -1,6 +1,6 @@
-# Advanced Demo - Advanced Demo - Simple Site2Site VPN
+# Project : AWS Site2Site VPN
 
-# [Stage 2] ![VPNsite2site](https://user-images.githubusercontent.com/128338058/235252476-ea122fab-b2ac-48b7-8678-7bf77db4cea1.png)
+# [PHASE2] ![VPNsite2site](https://user-images.githubusercontent.com/128338058/235252476-ea122fab-b2ac-48b7-8678-7bf77db4cea1.png)
 
 
 
