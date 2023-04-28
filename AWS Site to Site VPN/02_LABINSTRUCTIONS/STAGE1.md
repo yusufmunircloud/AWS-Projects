@@ -1,6 +1,7 @@
 # Advanced Demo - Advanced Demo - Simple Site2Site VPN
 
-# [Architecture] ![STAGEVPNALL](https://user-images.githubusercontent.com/128338058/235250559-49945ec3-8e1e-4646-8bdb-2fc8209438cc.PNG)
+# [Architecture] ![stagevpn1](https://user-images.githubusercontent.com/128338058/235250772-402b6c7c-f0ca-426b-8336-0b22dcad0e8b.PNG)
+
 
 
 - Stage 1 - Create Site2Site VPN <= `YOU ARE HERE`
