@@ -12,7 +12,7 @@ The demo consists of 5 stages, each implementing additional components of the ar
 - Stage 4 - Testing
 - Stage 6 - Cleanup
 
-## 1-Click Install
+## 1-Click Deployment
 
 - Make sure you are logged into AWS and in `us-east-1`
 - you will need to approve this [subscription](https://aws.amazon.com/marketplace/pp?sku=cphb99lr7icr3n9x6kc3102s5) it's a trial, so you won't be billed anything extra. 
@@ -29,18 +29,4 @@ The demo consists of 5 stages, each implementing additional components of the ar
 - [Stage4 - Testing](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE4.md)
 - [Stage5 - Cleanup](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE5.md)
 
-## Video Guides
 
-- [STAGE0](https://youtu.be/v9PactTXMTQ)
-- [STAGE1](https://youtu.be/oizexSe2ajQ)
-- [STAGE2](https://youtu.be/2LZRxc7UZns)
-- [STAGE3](https://youtu.be/mUgXjnAJHFA)
-- [STAGE4](https://youtu.be/RjietVauypA)
-- [STAGE5](https://youtu.be/yMb1UXqwsCA)
-
-## Architecture Diagrams
-
-- [Stage0](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE0.pdf)
-- [Stage1](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE1.pdf)
-- [Stage2](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE2.pdf)
-- [Stage4](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-simple-site2site-vpn/02_LABINSTRUCTIONS/STAGE4.pdf)
