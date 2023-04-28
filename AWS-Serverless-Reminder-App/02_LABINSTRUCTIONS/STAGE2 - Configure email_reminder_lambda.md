@@ -100,7 +100,7 @@ def lambda_handler(event, context):
             'Body': {'Text': {'Data': event['Input']['message']}}
         }
     )
-    return 'Success!'
+    return 'Success!'d
   
 ```
 
