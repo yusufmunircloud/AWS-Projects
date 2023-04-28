@@ -35,7 +35,7 @@ Click `Create State Machine`
 Select `Write your workflow in code` which will allow you to use Amazon States Language  
 Scroll down
 for `type` select `standard`  
-Open this in a new tab https://learn-cantrill-labs.s3.amazonaws.com/aws-serverless-pet-cuddle-o-tron/pet-cuddle-o-tron.json  
+Open this in a new tab [ASL-StepFunction](https://learn-cantrill-labs.s3.amazonaws.com/aws-serverless-pet-cuddle-o-tron/pet-cuddle-o-tron.json)  
 this is the Amazon States Language (ASL) file for the `pet-cuddle-o-tron` state machine  
 Copy the contents into your clipboard   
 Move back to the step functions console   
