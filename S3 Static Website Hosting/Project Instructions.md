@@ -14,6 +14,7 @@ The simple project consists of 6 stages :-
 
 # Step 1 - Create an S3 Bucket
 Ensure you are logged into an AWS account, have admin privileges and are in the us-east-1 / N. Virginia Region
+
 Move to the S3 console https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1
 
 
