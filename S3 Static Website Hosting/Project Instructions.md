@@ -33,6 +33,10 @@ Once your S3 bucket is created, under buckets page, click your new bucket name a
 
 Now in the properties tab, scroll all the way down to the bottom and on the ```Static Website Hosting``` click ``edit``
 
+Now under the Static Website Hosting click ``Enable``
+
+
+
 
 
 # STAGE 1 - FINISH   
