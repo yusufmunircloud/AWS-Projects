@@ -69,7 +69,13 @@ Then click edit and copy and paste the following into the Bucket Policy Text Edi
 Find your bucket name and replace the : "arn:aws:s3:::``your-bucket-name``/*" with your s3 buckets name
 
 Finally scroll down and click ``Save changes``
+
 # STEP 4 - Upload the websites code/files
+Once you've successfully put the bucket policy and saved changes, switch over to the objects tab 
+
+Now in the objects tab, click ``upload``, and under ``Files and folders`` click add files and find the ``index.html`` file you downloaded earlier from the link at the top of this ``Project Instructions``page
+
+At the bottom of the ``Upload`` page click ``Upload``
 
 
 # STAGE 1 - FINISH   
