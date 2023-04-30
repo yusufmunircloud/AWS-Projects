@@ -31,11 +31,16 @@ Note : For all setting and field not specified in these instruction, just leave 
 
 Once your S3 bucket is created, under buckets page, click your new bucket name and switch over to the properties tab 
 
-Now in the properties tab, scroll all the way down to the bottom and on the ```Static Website Hosting``` click ``edit``
+Now in the properties tab, scroll all the way down to the bottom and on the ```Static Website Hosting``` click ```edit```
 
-Now under the `Static Website Hosting click` ``Enable``
+Now under ``Static Website Hosting`` click ``enable``
 
-Under Hosting Type selecy ``Host a Static Website``
+Under Hosting Type select ``Host a static website``
+
+In the ``Index Document`` field, type: index.html
+In the ``Error Document`` field, type: error.html
+
+Now scroll to the bottom and click ``Save Changes``
 
 
 
