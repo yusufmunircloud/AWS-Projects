@@ -17,7 +17,8 @@ Ensure you are logged into an AWS account, have admin privileges and are in the 
 
 Move to the S3 console https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1
 Then on the left click ```Create Bucket```
-
+For the ```Bucket Name``` field put: theme-switcher-s3hosting-uniquestring. Eg. theme-switcher-s3hosting-1234
+In the AWS Region field select : ```US East (N. Virginia) us-east-1```
 
 # STAGE 1B - VERIFY SES APPLICATION CUSTOMER EMAIL ADDRESS
 
