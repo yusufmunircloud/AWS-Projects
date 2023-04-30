@@ -25,6 +25,8 @@ Under the ```Block Public Access settings for this bucket``` uncheck the the lit
 
 Then scroll to the bottom of the page and click ```Create Bucket```
 
+Note : For all setting and field not specified in these instruction, just leave them as default
+
 # STAGE 1B - VERIFY SES APPLICATION CUSTOMER EMAIL ADDRESS
 
 
