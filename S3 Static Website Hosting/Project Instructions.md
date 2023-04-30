@@ -44,9 +44,9 @@ Now scroll to the bottom and click ``Save Changes``
 
 # STEP 3 - Allow Public Access by configuring the appropriate bucket policy
 
-Once finished saving changes for the ``Static Websire Feature``, switch over to the ``Permissions`` tab and scroll down to the ``Bucket Policy`` section
+Once finished saving changes for the ``Static Website Feature``, switch over to the ``Permissions`` tab and scroll down to the ``Bucket Policy`` section
 
-Then click edit and copy and paste the following into the text area under the ``Policy``: 
+Then click edit and copy and paste the following into the Bucket Policy Text Editor area under the ``Policy``: 
 
 ```
 {
