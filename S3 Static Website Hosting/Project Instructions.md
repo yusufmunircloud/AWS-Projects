@@ -29,6 +29,11 @@ Note : For all setting and field not specified in these instruction, just leave 
 
 # STEP 2 - Turn on and configure the S3 Static Hosting Feature
 
+Once your S3 bucket is created, under buckets page, click your new bucket name and switch over to the properties tab 
+
+Now in the properties tab, scroll all the way down to the bottom and on the ```Static Website Hosting``` click ``edit``
+
+
 
 # STAGE 1 - FINISH   
 
