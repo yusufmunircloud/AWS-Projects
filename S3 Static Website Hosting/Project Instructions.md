@@ -78,6 +78,40 @@ Now in the objects tab, click ``upload``, and under ``Files and folders`` click 
 At the bottom of the ``Upload`` page click ``Upload``
 
 
-# STAGE 1 - FINISH   
+# STAGE 5 - Test and go to your new website
+
+Once the index.html file is uploaded successfully, switch over to the properties tab and scroll all the way down
+
+Once at the ``Static Website Hosting`` under the ``Bucket Website Endpoint`` click the website link 
+
+Now try out the theme switcher, to go from light to dark mode
+
+# STAGE 6 - Cleanup the account
+
+Once done testing out your new website,go back to the S3 bucket console :https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1&region=us-east-1
+
+Now select your S3 bucket which you used to host the website for this project and to the left click ``empty``, then fill in the field ``permanently delete``
+
+Once you've successfully emptied your bucket, select ``delete`` and type or copy and paste your S3 bucket name into the field to confirm your deletion
+
+
+Now you have successfully returned your AWS account back into the state it was before this project
+
+
+# Congratulations you have successfully hosted a full functioning static website on S3!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
