@@ -67,6 +67,8 @@ Then click edit and copy and paste the following into the Bucket Policy Text Edi
 }
 ```
 Find your bucket name and replace the : "arn:aws:s3:::``your-bucket-name``/*" with your s3 buckets name
+
+Finally scroll down and click ``Save changes``
 # STEP 4 - Upload the websites code/files
 
 
