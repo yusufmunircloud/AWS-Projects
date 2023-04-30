@@ -12,7 +12,7 @@ The simple project consists of 6 stages :-
 • Step 6 : Cleanup the account
 ```
 
-# Step 1 - Create an S3 Bucket
+# STEP 1 - Create an S3 Bucket
 Ensure you are logged into an AWS account, have admin privileges and are in the us-east-1 / N. Virginia Region
 
 Move to the S3 console https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1
@@ -27,7 +27,7 @@ Then scroll to the bottom of the page and click ```Create Bucket```
 
 Note : For all setting and field not specified in these instruction, just leave them as default
 
-# STAGE 1B - VERIFY SES APPLICATION CUSTOMER EMAIL ADDRESS
+# STEP 2 - Turn on and configure the S3 Static Hosting Feature
 
 
 # STAGE 1 - FINISH   
