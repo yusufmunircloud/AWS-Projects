@@ -42,7 +42,30 @@ In the ``Error Document`` field, type: error.html
 
 Now scroll to the bottom and click ``Save Changes``
 
+# STEP 3 - Allow Public Access by configuring the appropriate bucket policy
 
+Once finished saving changes for the ``Static Websire Feature``, switch over to the ``Permissions`` tab and scroll down to the ``Bucket Policy`` section
+
+Then click edit and copy and paste the following into the text area under the ``Policy``: 
+
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadAccess",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::your-bucket-name/*"
+            ]
+        }
+    ]
+}
+```
 
 
 
