@@ -20,6 +20,8 @@ Then on the left click ```Create Bucket```
 For the Bucket Name field put: ```theme-switcher-s3hosting-uniquestring.``` Eg. theme-switcher-s3hosting-1234
 
 In the AWS Region field select : ```US East (N. Virginia) us-east-1```
+Under the ```Block Public Access settings for this bucket``` uncheck the the little box next to ```Block all public access```
+
 
 # STAGE 1B - VERIFY SES APPLICATION CUSTOMER EMAIL ADDRESS
 
