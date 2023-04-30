@@ -7,7 +7,7 @@ The simple project consists of 6 stages :-
 • Step 1 : Create an S3 Bucket
 • Step 2 : Turn on and configure the S3 Static Hosting Feature
 • Step 3 : Allow Public Access by configuring the appropriate bucket policy
-• Step 4 : Upload the websites code
+• Step 4 : Upload the websites code/files
 • Step 5 : Test and go to your new website
 • Step 6 : Cleanup the account
 ```
@@ -66,7 +66,8 @@ Then click edit and copy and paste the following into the Bucket Policy Text Edi
     ]
 }
 ```
-
+Find your bucket name and replace the : "arn:aws:s3:::``your-bucket-name``/*" with your s3 buckets name
+# STEP 4 - Upload the websites code/files
 
 
 # STAGE 1 - FINISH   
