@@ -23,6 +23,7 @@ In the AWS Region field select : ```US East (N. Virginia) us-east-1```
 
 Under the ```Block Public Access settings for this bucket``` uncheck the the little box next to ```Block all public access```
 
+Then scroll to the bottom of the page and click ```Create Bucket```
 
 # STAGE 1B - VERIFY SES APPLICATION CUSTOMER EMAIL ADDRESS
 
