@@ -11,6 +11,9 @@ Welcome to the Ultimate Guide to Stream Processing with Kinesis! In this simple 
 
 ## Step 2: Accessing Kinesis Services
 3. In the search bar, type "kinesis" and click on the Kinesis search result that appears.
+
+![](https://github.com/yusufmunircloud/AWS-Projects/blob/main/img/Screenshot%202023-10-17%20at%2012.26.14%20PM.png?raw=true)
+
 4. You'll find options to create a data stream.
 ![](https://github.com/yusufmunircloud/AWS-Projects/blob/main/img/Screenshot%202023-10-17%20at%2012.26.14%20PM.png?raw=true)
 
