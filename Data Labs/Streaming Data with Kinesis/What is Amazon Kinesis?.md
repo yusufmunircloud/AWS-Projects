@@ -63,6 +63,9 @@ To begin using Amazon Kinesis, you'll need an AWS account. Once set up, you can 
 
 For more comprehensive information and practical guidance, consult the [official Amazon Kinesis documentation](https://docs.aws.amazon.com/kinesis/).
 
+## Lab Time!
+Lets jump into some labs and see how we can create and configure kinesis!
+
 ## Conclusion
 
 Amazon Kinesis empowers organizations to make real-time data-driven decisions, gain instant insights, and process large volumes of streaming data. With Kinesis Streams
