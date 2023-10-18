@@ -10,7 +10,7 @@
 
 3. **Delete the Data Volume:** To keep things clean, you can delete the failed data volume.
 
-4. **Restore Data:** Restore your data from a snapshot. Create a new EBS volume using the snapshot to recover your data.
+4. **Restore Data:** Restore your data from a snapshot. Create a new EBS volume using the snapshot to recover your data in the same AZ as the Instance
 
 5. **Attach the New Data Volume:** Attach the newly restored data volume to the EC2 instance.
 
