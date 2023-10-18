@@ -36,11 +36,11 @@
    - Add a line to `/etc/fstab` to define the mount point.
    - /dev/xvdf   /data       ext4    defaults,nofail 0       2  #Copy this whole line and paste to bottom of fstab file, and save
 9. **Test the Configuration:**
-   - Run `mount -a` to check for errors in the `fstab` configuration.
+   - Run `sudo mount -a` to check for errors in the `fstab` configuration.
    - Use `df -h` to verify that the volume is mounted on `/data`.
 
 10. **Reboot the Server:**
-    - Reboot the EC2 instance to test if the volume is mounted automatically.
+    - Reboot the EC2 instance to test if the volume is mounted automatically. `sudo reboot`
 
 ## Summary
 
