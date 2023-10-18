@@ -28,7 +28,7 @@ In this video, we will guide you through the process of setting up a MySQL serve
     ```shell
     mysql -u root -p
     ```
-    Provide the root password you set during installation.
+    Provide the root password you set during installation. If you were never prompted to enter a root password when installing MySQL that means there is no password, so         just simply click enter
 
 ### 5. Create a MySQL Database (Optional)
 - While in the MySQL shell, you can create a database:
