@@ -1,8 +1,5 @@
 # What Are We Building?
 
-![](https://github.com/yusufmunircloud/AWS-Projects/blob/main/img/sentiment-img/sentimentai-architecture.png?raw=true)
-
-
 In this project, we are developing a real-life application that leverages the power of machine learning. Our goal is to create a service that delivers top news stories to users while also providing insights into the sentiment of those news articles.
 
 ## Overview
@@ -18,6 +15,8 @@ Our project is primarily based on AWS Lambda, a serverless computing service. He
 4. **API Interaction:** Our project exposes API endpoints that allow users to request news articles based on their desired sentiment. Users can choose to fetch positive, negative, or neutral news.
 
 5. **Automation:** The Lambda function can be triggered at specified intervals, such as hourly or daily, using Amazon CloudWatch Events. This scheduling capability allows us to automate the entire process, making it function like a cron job.
+
+![](https://github.com/yusufmunircloud/AWS-Projects/blob/main/img/sentiment-img/sentimentai-architecture.png?raw=true)
 
 ## Why It Matters
 
