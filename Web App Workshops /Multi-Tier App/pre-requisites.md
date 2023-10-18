@@ -78,7 +78,7 @@
 
 5. Use the private key, Ubuntu user, and the public IP address to connect.
 6. Verify your connection with Linux commands (e.g., `whoami`, `pwd`).
-7. Exit the session when done.
+7. Exit the session when done. `exit`
 
 **Code Snippets:**
 - Copying the private key and changing permissions: `chmod 400 key.pem`
