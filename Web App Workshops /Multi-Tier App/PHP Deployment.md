@@ -6,7 +6,7 @@
 **Key Concepts:**
 - Git clone
 - Dependency installation
-- Apache document root
+- Apache document root: `/var/www/html`
 - AWS SDK
 - Composer
 
@@ -15,7 +15,7 @@
    - This creates a folder with the application code.
 2. Install dependencies (PHP, Apache Web Server, MySQL client) using `apt-get` - Ubuntu's package manager.
    - A shell script is provided to automate this process.
-   - Run the script using `sh apt-get.sh`.
+   - Run the script using `sh apt-get.sh` from the Scripts/Multi-Tier App folder within this repo.
 3. Install the AWS SDK, a library for interfacing with AWS services (e.g., DynamoDB, CloudFront), using Composer - a PHP package manager.
    - First, install Composer with `curl` within the application folder.
    - Use Composer to install the AWS SDK.
