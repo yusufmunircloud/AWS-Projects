@@ -20,9 +20,10 @@
    - First, install Composer with `curl` within the application folder.
    - Use Composer to install the AWS SDK.
 4. Deploy the PHP application by moving the PHP pages to the Apache document root.
-   - Use `sudo cp` to copy PHP pages to `/var/www/html`.
-   - Copy the vendor folder and any necessary images.
-   
+   - Use `sudo cp *.php /var/www/html/` to copy PHP pages to `/var/www/html`.
+   - Copy the vendor folder and any necessary images. `sudo -r vendor/ /var/www/html`  
+   - Copy images: `sudo cp aws-icon.png /var/www/html`  
+
 **Code Snippets:**
 - Cloning the application: `git clone [repository URL]`
 - Running the apt-get shell script: `sh apt-get.sh`
