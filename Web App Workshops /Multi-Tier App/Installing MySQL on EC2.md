@@ -38,7 +38,7 @@ In this video, we will guide you through the process of setting up a MySQL serve
     Replace `mydb` with the desired database name.
 
 ### 6. Configure PHP Application
-- Edit the `localdb.php` file within your PHP application. `sudo vi /var/www/html/localdb.php`
+- Edit the `localdb.php` file within your PHP application. `sudo vi /var/www/html/localdb.php` or `sudo nano /var/www/html/localdb.php`
 - Add the MySQL connection details, including the username and password.
 - The username is usually "root," and the password is what you set during installation.
 
