@@ -69,10 +69,13 @@
 - Ubuntu user
 
 **Steps/Procedures:**
-1. Copy the private key file to your working directory.
+1. Copy the private key file to your working directory. Eg. `cp Downloads/MyKeyPair Desktop`
 2. Change permissions with `chmod 400` to make it readable only for the current user.
-3. Securely store the private key and remove it from downloads.
-4. SSH into the instance using the `ssh -i` command.
+3. Securely store the private key and remove it from downloads. Eg. `rm Downloads/MyKeyPair.pem`
+4. SSH into the instance using the `ssh -i` command. 
+   For Linux: `ssh -i MyKeyPair.pem ec2-user@{publicip}`
+   For Ubuntu: `ssh -i MyKeyPair.pem ubuntu@{publicip}`
+
 5. Use the private key, Ubuntu user, and the public IP address to connect.
 6. Verify your connection with Linux commands (e.g., `whoami`, `pwd`).
 7. Exit the session when done.
