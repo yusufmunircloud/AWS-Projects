@@ -35,7 +35,7 @@
 - Be cautious with permissions, especially when using `sudo`.
 
 **Verification:**
-1. Access the public IP address in a web browser.
+1. Access the publicIP/index.php address in a web browser.
 2. Visit `index.php` to verify it displays "hello world."
 3. Check `session.php` to ensure session management works.
 4. Examine `image.php` to view a locally stored image.
@@ -56,5 +56,4 @@
 - Ensure that the AMI is created after successful deployment for future use.
 
 **Next Steps:**
-- In the next video, we will delve into further AWS services and functionalities.
-- Good luck with your work, and see you in the next video!
+- next, we will delve into further AWS services and functionalities.
