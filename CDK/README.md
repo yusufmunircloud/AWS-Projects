@@ -38,7 +38,6 @@ Use this to remove the resources created by the CDK.
 
 ## Further Resources
 
-📚 For more information and in-depth documentation, visit the ([https://docs.aws.amazon.com/cdk/v2/guide/home.html])
+📚 For more information and in-depth documentation, visit the [AWS CDK documentation](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
 Now you're ready to build amazing AWS infrastructure with ease using the AWS CDK! Happy coding! 🚢✨
-
