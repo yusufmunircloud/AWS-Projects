@@ -42,16 +42,23 @@ AWS Glue Studio provides a graphical interface for creating, running, and monito
 Amazon Redshift, AWS's data warehousing solution, is introduced in this chapter. Redshift's columnar storage architecture and massive parallel processing capabilities make it ideal for storing data used in reporting and analytics. The tutorial covers the creation of a Redshift cluster, performing ETL processes to move data from the data lake to the data warehouse, and introduces Redshift Spectrum for querying data directly in the lake without duplication.
 
 ## Key Concepts Covered:
-Introduction to Amazon Redshift
-Creating and configuring a Redshift cluster
-ETL processes for moving data to Redshift
-Introduction to Redshift Spectrum
-Chapter 5: Amazon Macie for Data Security
+1. Introduction to Amazon Redshift
+
+2. Creating and configuring a Redshift cluster
+
+3. ETL processes for moving data to Redshift
+
+4. Introduction to Redshift Spectrum
+
+## Chapter 5: Amazon Macie for Data Security
 Data security is a crucial aspect of managing a data lake. This chapter introduces and configures Amazon Macie, a fully managed data security and privacy service. Macie helps in addressing challenges related to the identification of sensitive data, compliance with regulations, and evolving data privacy requirements. The tutorial demonstrates the usage of Amazon Macie for monitoring, maintaining, and identifying sensitive data at scale within the data lake.
 
-Key Concepts Covered:
-Introduction to Amazon Macie
-Configuring Macie for data security and privacy
-Monitoring and identifying sensitive data at scale
-Conclusion
+## Key Concepts Covered:
+1. Introduction to Amazon Macie
+
+2. Configuring Macie for data security and privacy
+
+3. Monitoring and identifying sensitive data at scale
+
+## Conclusion
 By the end of this tutorial, you should have acquired the knowledge and skills to set up various data sources, create a secure data lake using AWS Lake Formation, implement data pipelines for ingestion and transformation, configure a data warehouse with Amazon Redshift, and ensure data security and privacy using Amazon Macie. Whether you are a beginner or an experienced professional, this tutorial provides a comprehensive guide to setting up data lakes and data warehouses with AWS services.
