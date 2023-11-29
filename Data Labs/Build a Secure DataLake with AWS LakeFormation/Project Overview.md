@@ -5,6 +5,8 @@ Welcome to this comprehensive tutorial on building a secure data lake using AWS 
 ## Chapter 1: AWS Lake Formation Overview
 In this section, we will delve into the fundamentals of AWS Lake Formation, highlighting its simplicity in contrast to traditional data lake setup. We will explore the complexities involved in managing data lakes manually, such as diverse data source loading, monitoring data flows, setting up partitions, encryption, and managing keys. AWS Lake Formation simplifies these processes by allowing users to define data sources, access policies, and security controls easily. It automates the collection, cleansing, classification, and secure access to sensitive data through machine learning algorithms and granular controls at different levels.
 
+![](https://github.com/yusufmunircloud/AWS-Projects/blob/main/img/data%20lab-img/DataLake1.png?raw=true)
+
 ## Key Concepts Covered:
 1. Defining data sources and access policies
 
